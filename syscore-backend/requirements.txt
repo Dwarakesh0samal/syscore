@@ -1,0 +1,15 @@
+flask
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+flask-cors
+flask-limiter
+flask-bcrypt
+stripe
+sendgrid
+python-dotenv
+psycopg2-binary
+Pillow
+gunicorn
+sentry-sdk[flask]
+pytest
